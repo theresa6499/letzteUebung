@@ -1,2 +1,6 @@
 printf("Hello");
+<<<<<<< HEAD
 rofl
+=======
+lol
+>>>>>>> integrated
